@@ -14,3 +14,6 @@ This project was developed using the YOLOv5 architecture to automatically detect
 
 ---
 
+![indir](https://github.com/user-attachments/assets/b5346c27-1624-4c26-a909-9bf69cb73768)
+
+![indir (1)](https://github.com/user-attachments/assets/2dc70db6-6472-4f43-9f1a-1fe2e094dbc8)
